@@ -1,4 +1,4 @@
-# KEC Card Access Devices — Security Surface and Vulnerability Analysis Across the Lifecycle
+# KEC Card Access Devices
 
 ## 1) Introduction: KEC and EKDS Overview
 
